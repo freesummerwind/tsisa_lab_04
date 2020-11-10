@@ -10,3 +10,33 @@
  
 ## Выполнение
 Код файла, реализующего функцию имитации отжига, а также представляющего результаты в виде таблицы, приведен в main.cpp
+
+![alt text](screenshots/lab_04_01.png "Таблица для функции для 10 поколений")
+![alt text](screenshots/lab_04_02.png "Таблица для функции для 10 поколений")
+![alt text](screenshots/lab_04_03.png "Таблица для функции для 10 поколений")
+![alt text](screenshots/lab_04_04.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_05.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_06.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_07.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_08.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_09.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_10.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_11.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_12.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_13.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_14.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_15.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_16.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_17.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_18.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_19.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_20.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_21.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_22.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_23.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_24.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_25.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_26.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_27.png "Таблица для функции для 100 поколений")
+![alt text](screenshots/lab_04_28.png "Таблица для функции для 100 поколений")
+
