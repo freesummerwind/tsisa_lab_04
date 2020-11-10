@@ -118,7 +118,7 @@ const double X_UPPER = 2.;
 const double Y_LOWER = -2.;
 const double Y_UPPER = 2.;
 const int POINTS_NUMBER = 6;
-const double MUTATION_PROBABILITY = .25;
+const double MUTATION_PROBABILITY = .2;
 
 int main() {
     std::cout << "Variant 15.\nFunction: sin(x) * exp(-y^2) / (1 + x^2 + y^2), D: ("
